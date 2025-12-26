@@ -1,8 +1,8 @@
-# Ezaalah Documentation
+# Ezaalah Help Center
 
 Use the starter kit to get your docs deployed and ready to customize.
 
-Click the green **Use this template** button at the top of this repo to copy the Ezaalah documentation. The starter kit contains examples with
+Click the green **Use this template** button at the top of this repo to copy the Ezaalah Help Center. The starter kit contains examples with
 
 - Guide pages
 - Navigation
@@ -14,7 +14,7 @@ Click the green **Use this template** button at the top of this repo to copy the
 
 ## Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your Help Center changes locally. To install, use the following command:
 
 ```
 npm i -g mint

@@ -29,7 +29,7 @@
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Creating articles",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -71,7 +71,7 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Knowledge Base",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
